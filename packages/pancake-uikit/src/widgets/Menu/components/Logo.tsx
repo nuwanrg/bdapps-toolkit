@@ -49,7 +49,6 @@ const Logo: React.FC<Props> = ({ isDark, href }) => {
   const innerLogo = (
     <>
       <LogoIcon className="mobile-icon" />
-      <LogoWithTextIcon className="desktop-icon" isDark={isDark} />
     </>
   );
 

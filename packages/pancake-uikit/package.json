@@ -1,6 +1,6 @@
 {
   "name": "@bdapps/uikit",
-  "version": "0.57.1",
+  "version": "0.57.2",
   "description": "Set of UI components for pancake projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -53,5 +53,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "dd65f296992df51d8aac03deb4babb8db03ac519"
+  "gitHead": "a05d974e940ee7fd048d4432b1502328ca2beabd"
 }

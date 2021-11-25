@@ -107,7 +107,6 @@ const Menu: React.FC<NavProps> = ({
     <Wrapper>
       <StyledNav showMenu={showMenu}>
         <Flex>
-          <Logo isDark={isDark} href={homeLink?.href ?? "/"} />
           {!isMobile && <MenuItems items={links} activeItem={activeItem} activeSubItem={activeSubItem} ml="24px" />}
         </Flex>
         <Flex alignItems="center">
